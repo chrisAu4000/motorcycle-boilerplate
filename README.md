@@ -19,7 +19,7 @@ The main dependencies for this boilerplate are:
 First clone this repo and install the dependencies.
 
 ```shell
-git clone https://github.com/kahlil/cycle-browserify-boilerplate.git && npm install
+git clone https://github.com/chrisAu4000/motorcycle-boilerplate.git && npm install
 ```
 
 Then change the project name, repository link and description in your package.json and change
